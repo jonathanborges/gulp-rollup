@@ -1,2 +1,2 @@
 # gulp-rollup
-## Start creating your own module to be required.
+Start by creating your own module to be required.
